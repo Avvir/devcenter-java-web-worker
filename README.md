@@ -1,3 +1,5 @@
+bump
+
 ## Asynchronous Web-Worker Model Using RabbitMQ in Java
 
 As explained in the [Worker Dynos, Background Jobs and Queueing](background-jobs-queueing) article, web requests
