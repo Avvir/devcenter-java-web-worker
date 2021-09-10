@@ -35,6 +35,7 @@ public class BigOperationWorker {
 
                 // simply printing out the operation, but expensive computation could happen here
                 System.out.println("Received from RabbitMQ: " + bigOp);
+                System.out.println("Drew and Evan did something: " + bigOp.getName().toUpperCase());
             }
         });
 
